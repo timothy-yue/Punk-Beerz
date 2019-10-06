@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/punk-beerz/static/css/main.4b6efc89.chunk.css",
-    "main.js": "/punk-beerz/static/js/main.2cbbed81.chunk.js",
-    "main.js.map": "/punk-beerz/static/js/main.2cbbed81.chunk.js.map",
-    "runtime-main.js": "/punk-beerz/static/js/runtime-main.68002457.js",
-    "runtime-main.js.map": "/punk-beerz/static/js/runtime-main.68002457.js.map",
-    "static/js/2.65474602.chunk.js": "/punk-beerz/static/js/2.65474602.chunk.js",
-    "static/js/2.65474602.chunk.js.map": "/punk-beerz/static/js/2.65474602.chunk.js.map",
-    "index.html": "/punk-beerz/index.html",
-    "precache-manifest.e86cfb280e9aa9731746e946c04d9453.js": "/punk-beerz/precache-manifest.e86cfb280e9aa9731746e946c04d9453.js",
-    "service-worker.js": "/punk-beerz/service-worker.js",
-    "static/css/main.4b6efc89.chunk.css.map": "/punk-beerz/static/css/main.4b6efc89.chunk.css.map"
+    "main.css": "/Punk-Beerz/static/css/main.4b6efc89.chunk.css",
+    "main.js": "/Punk-Beerz/static/js/main.4537f8ac.chunk.js",
+    "main.js.map": "/Punk-Beerz/static/js/main.4537f8ac.chunk.js.map",
+    "runtime-main.js": "/Punk-Beerz/static/js/runtime-main.8bc83593.js",
+    "runtime-main.js.map": "/Punk-Beerz/static/js/runtime-main.8bc83593.js.map",
+    "static/js/2.65474602.chunk.js": "/Punk-Beerz/static/js/2.65474602.chunk.js",
+    "static/js/2.65474602.chunk.js.map": "/Punk-Beerz/static/js/2.65474602.chunk.js.map",
+    "index.html": "/Punk-Beerz/index.html",
+    "precache-manifest.68dbb7fa670169f31c985598ec632ab3.js": "/Punk-Beerz/precache-manifest.68dbb7fa670169f31c985598ec632ab3.js",
+    "service-worker.js": "/Punk-Beerz/service-worker.js",
+    "static/css/main.4b6efc89.chunk.css.map": "/Punk-Beerz/static/css/main.4b6efc89.chunk.css.map"
   }
 }
