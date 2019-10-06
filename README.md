@@ -2,11 +2,15 @@
 
 A simple react application exploring the punk beerz API.
 
+[Check out working demo here.](https://timothy-yue.github.io/Punk-Beerz/)
+
 ### STILL IN PROGRESS
 
 - Add more detailed search functionality
+- Navbar mobile does not show menu items
 - Performance optimization using React.Memo
 - Layout Redesign
+- Github pages direct URL does not work. Routing problems.
 
 ### Technologies Used
 
@@ -19,6 +23,7 @@ A simple react application exploring the punk beerz API.
 
 - Able to search beer names
 - Favorite beers during a session and displays them in a seperate tag
+- Mobile Responsive
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
