@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a10e329f69ca114cd23e0640c5c8ed5a",
+    "revision": "81e40275a92ce7929d5a2bcaa4d5b9ab",
     "url": "/Punk-Beerz/index.html"
   },
   {
-    "revision": "9d096ce0651b03382699",
+    "revision": "8bda82429139feddd811",
     "url": "/Punk-Beerz/static/css/main.4b6efc89.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Punk-Beerz/static/js/2.65474602.chunk.js"
   },
   {
-    "revision": "9d096ce0651b03382699",
-    "url": "/Punk-Beerz/static/js/main.4537f8ac.chunk.js"
+    "revision": "8bda82429139feddd811",
+    "url": "/Punk-Beerz/static/js/main.e0e44359.chunk.js"
   },
   {
     "revision": "5f97986c7d828c3b5926",

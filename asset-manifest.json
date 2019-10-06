@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Punk-Beerz/static/css/main.4b6efc89.chunk.css",
-    "main.js": "/Punk-Beerz/static/js/main.4537f8ac.chunk.js",
-    "main.js.map": "/Punk-Beerz/static/js/main.4537f8ac.chunk.js.map",
+    "main.js": "/Punk-Beerz/static/js/main.e0e44359.chunk.js",
+    "main.js.map": "/Punk-Beerz/static/js/main.e0e44359.chunk.js.map",
     "runtime-main.js": "/Punk-Beerz/static/js/runtime-main.8bc83593.js",
     "runtime-main.js.map": "/Punk-Beerz/static/js/runtime-main.8bc83593.js.map",
     "static/js/2.65474602.chunk.js": "/Punk-Beerz/static/js/2.65474602.chunk.js",
     "static/js/2.65474602.chunk.js.map": "/Punk-Beerz/static/js/2.65474602.chunk.js.map",
     "index.html": "/Punk-Beerz/index.html",
-    "precache-manifest.68dbb7fa670169f31c985598ec632ab3.js": "/Punk-Beerz/precache-manifest.68dbb7fa670169f31c985598ec632ab3.js",
+    "precache-manifest.4e7e82ac953dbc0ada5eeceacf9085d0.js": "/Punk-Beerz/precache-manifest.4e7e82ac953dbc0ada5eeceacf9085d0.js",
     "service-worker.js": "/Punk-Beerz/service-worker.js",
     "static/css/main.4b6efc89.chunk.css.map": "/Punk-Beerz/static/css/main.4b6efc89.chunk.css.map"
   }
