@@ -1,3 +1,26 @@
+## Punk Beerz
+
+A simple react application exploring the punk beerz API.
+
+### STILL IN PROGRESS
+
+- Add more detailed search functionality
+- Performance optimization using React.Memo
+- Layout Redesign
+
+### Technologies Used
+
+1. React
+    - React-router
+2. Bulma CSS Framework
+3. SASS
+
+### Functionality
+
+- Able to search beer names
+- Favorite beers during a session and displays them in a seperate tag
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
